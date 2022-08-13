@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Facebookmessager/static/css/main.1bc6249c.css",
+    "main.js": "/Facebookmessager/static/js/main.443bc237.js",
+    "static/js/787.060b83f1.chunk.js": "/Facebookmessager/static/js/787.060b83f1.chunk.js",
+    "index.html": "/Facebookmessager/index.html",
+    "main.1bc6249c.css.map": "/Facebookmessager/static/css/main.1bc6249c.css.map",
+    "main.443bc237.js.map": "/Facebookmessager/static/js/main.443bc237.js.map",
+    "787.060b83f1.chunk.js.map": "/Facebookmessager/static/js/787.060b83f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bc6249c.css",
+    "static/js/main.443bc237.js"
+  ]
+}
